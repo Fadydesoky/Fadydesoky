@@ -1,1 +1,97 @@
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Fady%20Desoky-blue?logo=linkedin)](https://eg.linkedin.com/in/fadydesokysaeedabdelaziz)
+# 👋 Hi, I'm Fady Desoky Saeed Abdelaziz
+
+🎓 Software Engineering Student | 📊 Data Analyst | 🤖 AI Enthusiast  
+💡 Building data-driven solutions with real-world impact  
+
+---
+
+## 🌐 Connect with me  
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Fady%20Desoky-blue?logo=linkedin&logoColor=white)](https://eg.linkedin.com/in/fadydesokysaeedabdelaziz)
+[![Medium](https://img.shields.io/badge/Medium-Articles-black?logo=medium&logoColor=white)](https://medium.com/@Fadydesokysaeedabdelaziz)
+[![Dev.to](https://img.shields.io/badge/Dev.to-Blogs-0A0A0A?logo=devdotto&logoColor=white)](https://dev.to/fadydesokysaeedabdelaziz)
+
+---
+
+## 🧠 About Me  
+
+I'm a Software Engineering student passionate about **Software Engineering, Data Analysis, AI, and Sustainable Tech**.  
+I combine technical expertise with business understanding to build scalable and impactful solutions.  
+
+Currently focused on becoming a **Data Scientist** while gaining hands-on industry experience.  
+
+---
+
+## 🔬 Research & Publications  
+
+- 📄 **Analyzing Software Resource Consumption Data for Sustainable Green Software Development: A Predictive Model to Reduce and Optimize Energy Consumption in Software**  
+  Predictive model for reducing software energy consumption using IEEE datasets, October 2025, Washington, USA.  
+
+- 🌍 **Graphing the Jam: GNSS-Powered Modeling and Forecasting of Urban Traffic Congestion" 
+  Research accepted and presented as a poster in an NetMob 2025 Conference, October 2025, Paris, France.
+
+---
+
+## 💼 Experience  
+
+- 🏢 **Nestlé Business Services (HR Operations Process Optimization)**  
+  - Data cleansing across MENA region  
+  - SAP HR data management  
+  - Process mapping & reporting  
+
+- 🧪 **Nile University – Data Analytics & Urban Mobility Research Intern**  
+  - Worked on data-driven research projects  
+  - Participated in international data challenge  
+
+- 💻 **RiskRice – Backend & Testing Intern**  
+  - Learned API design & software testing  
+
+- 🌏 **Symbios Australia – Account Executive**  
+  - Managed clients & operations in telecom & energy sectors  
+
+---
+
+## 🛠️ Tech Stack  
+
+**Languages:**  
+Python | C++ | JavaScript  
+
+**Data & AI:**  
+Pandas | NumPy | Matplotlib | Scikit-learn  
+
+**Development:**  
+Flask | React.js | .NET | Entity Framework  
+
+**Tools:**  
+SQL | MongoDB | Docker | Git | SAP | PowerBI
+
+---
+
+## 📈 Highlights  
+
+- 🏆 Research published in international conference (USA)  
+- 🌍 Worked on MENA-wide data projects  
+- 📊 Strong mix of Data + Business + Engineering  
+
+---
+
+## 🎯 Interests  
+
+- 📊 Data Analytics & Engineering
+- 🤖 Artificial Intelligence  
+- 🌱 Green Computing  
+- 📈 Business Strategy  
+
+---
+
+## 🚀 Current Focus  
+
+- Building real-world Data/AI projects  
+- Publishing technical content  
+- Preparing for top internships & global opportunities  
+
+---
+
+## 📈 GitHub Stats  
+
+![Fady's GitHub stats](https://github-readme-stats.vercel.app/api?username=fadydesoky&show_icons=true)
