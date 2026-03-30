@@ -22,7 +22,9 @@ I combine technical expertise with business understanding to build scalable and 
 Currently focused on becoming a **Data Scientist** while gaining hands-on industry experience.  
 
 📌 I focus on building solutions that combine **Data, AI, and real-world impact**, especially in sustainability and smart systems.
-📌 Open to Data Analysis, AI, and Software Engineering Internship Opportunities
+
+📌 Open to **Data Analysis**, **AI**, and **Software Engineering** Internship Opportunities.
+
 ---
 
 ## 🔬 Research & Publications  
