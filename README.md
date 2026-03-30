@@ -1,8 +1,8 @@
 <h1 align="center">Hi 👋, I'm Fady Desoky Saeed Abdelaziz</h1>
-<h3 align="center">Data Analyst | AI Engineer | Software Developer</h3>
+<h3 align="center">Data Analyst | AI Engineer | Green Software Researcher</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=Green+Software+Researcher;Data+Scientist+in+Progress;AI+Enthusiast;Data+Engineering;Enterprise+Process+Optimization&center=true&width=500&height=50">
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=Software+Developer;Data+Scientist+in+Progress;AI+Enthusiast;Data+Engineering;Enterprise+Process+Optimization&center=true&width=500&height=50">
 </p>
 
 ---
@@ -19,9 +19,9 @@
 
 I'm a Software Engineering student passionate about **Software Engineering, Data Analysis, AI, and Sustainable Tech**.  
 I combine technical expertise with business understanding to build scalable and impactful solutions.  
-
 Currently focused on becoming a **Data Scientist** while gaining hands-on industry experience.  
 
+📌 I focus on building solutions that combine **Data, AI, and real-world impact**, especially in sustainability and smart systems.
 ---
 
 ## 🔬 Research & Publications  
@@ -37,7 +37,7 @@ Currently focused on becoming a **Data Scientist** while gaining hands-on indust
 ## 💼 Experience  
 
 - 🏢 **Nestlé Business Services (HR Operations Process Optimization)**  
-  - Data cleansing across MENA region  
+  - Improved data quality across MENA HR systems
   - SAP HR data management  
   - Process mapping & reporting  
 
