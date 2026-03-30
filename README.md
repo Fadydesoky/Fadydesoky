@@ -47,7 +47,12 @@ Currently focused on becoming a **Data Scientist** while gaining hands-on indust
   - Learned API design & software testing  
 
 - 🌏 **Symbios Australia – Account Executive**  
-  - Managed clients & operations in telecom & energy sectors  
+  - Managed clients & operations in telecom & energy sectors
+    
+- ⚙️ **Maher Ahmed Bilal For Engineering Consulting - Information Technology and Software Engineering Intern**
+  - Contributed to improving internal digital workflows and supporting system optimization initiatives.
+  - Assisted in system configuration, troubleshooting, and resolving operational technical issues.
+  - Analyzed existing operational processes and identified opportunities for technical enhancement and efficiency improvement.
 
 ---
 
