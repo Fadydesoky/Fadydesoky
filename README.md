@@ -1,8 +1,8 @@
 <h1 align="center">Hi 👋, I'm Fady Desoky Saeed Abdelaziz</h1>
-<h3 align="center">Data Analyst | AI Engineer | Green Software Researcher</h3>
+<h3 align="center">Data Analyst | AI Engineer | Sustainable Techs & Smart Systems</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=Software+Developer;Data+Scientist+in+Progress;AI+Enthusiast;Data+Engineering;Enterprise+Process+Optimization&center=true&width=500&height=50">
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=Software+Engineer;Data+Scientist+in+Progress;AI+Enthusiast;Data+Engineering;Enterprise+Process+Optimization&center=true&width=500&height=50">
 </p>
 
 ---
@@ -112,6 +112,16 @@ SQL | MongoDB | Docker | Git | SAP | PowerBI
 - Building real-world Data/AI projects  
 - Publishing technical content  
 - Preparing for top internships & global opportunities  
+
+---
+
+## 🌌 GitHub Universe  
+
+<p align="center">
+  <a href="https://stack-universe.vercel.app/universe/Fadydesoky">
+    🌍 Click to explore my GitHub in 3D
+  </a>
+</p>
 
 ---
 
