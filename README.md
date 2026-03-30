@@ -1,6 +1,5 @@
-# 👋 Hi, I'm Fady Desoky Saeed Abdelaziz
-
-🎓 Software Engineering Student | 📊 Data Analyst | 🤖 AI Enthusiast  
+<h1 align="center">Hi 👋, I'm Fady Desoky</h1>
+<h3 align="center">Software Engineer | Data Analyst | AI Enthusiast</h3>
 💡 Building data-driven solutions with real-world impact  
 
 ---
@@ -27,7 +26,7 @@ Currently focused on becoming a **Data Scientist** while gaining hands-on indust
 - 📄 **Analyzing Software Resource Consumption Data for Sustainable Green Software Development: A Predictive Model to Reduce and Optimize Energy Consumption in Software**  
   Predictive model for reducing software energy consumption using IEEE datasets, October 2025, Washington, USA.  
 
-- 🌍 **Graphing the Jam: GNSS-Powered Modeling and Forecasting of Urban Traffic Congestion" 
+- 🌍 **Graphing the Jam: GNSS-Powered Modeling and Forecasting of Urban Traffic Congestion"** 
   Research accepted and presented as a poster in an NetMob 2025 Conference, October 2025, Paris, France.
 
 ---
@@ -94,4 +93,7 @@ SQL | MongoDB | Docker | Git | SAP | PowerBI
 
 ## 📈 GitHub Stats  
 
-![Fady's GitHub stats](https://github-readme-stats.vercel.app/api?username=fadydesoky&show_icons=true)
+![Fady's GitHub stats](https://github-readme-stats-sigma-five.vercel.app/api?username=Fadydesoky&show_icons=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Fadydesoky&layout=compact)
+![GitHub Streak](https://streak-stats.demolab.com/?user=Fadydesoky)
+![Profile views](https://komarev.com/ghpvc/?username=Fadydesoky&label=Profile%20views&color=0e75b6&style=flat)
