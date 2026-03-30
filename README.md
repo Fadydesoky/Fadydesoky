@@ -1,6 +1,7 @@
 <h1 align="center">Hi 👋, I'm Fady Desoky</h1>
-<h3 align="center">Software Engineer | Data Analyst | AI Enthusiast</h3>
-💡 Building data-driven solutions with real-world impact  
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=Data+Analyst;AI+Engineer;Software+Developer&center=true&width=500&height=50">
+</p>
 
 ---
 
@@ -94,6 +95,6 @@ SQL | MongoDB | Docker | Git | SAP | PowerBI
 ## 📈 GitHub Stats  
 
 ![Fady's GitHub stats](https://github-readme-stats-sigma-five.vercel.app/api?username=Fadydesoky&show_icons=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Fadydesoky&layout=compact)
+![Top Langs](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Fadydesoky&layout=compact)
 ![GitHub Streak](https://streak-stats.demolab.com/?user=Fadydesoky)
 ![Profile views](https://komarev.com/ghpvc/?username=Fadydesoky&label=Profile%20views&color=0e75b6&style=flat)
