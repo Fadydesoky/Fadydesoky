@@ -2,7 +2,7 @@
 <h3 align="center">Data Analyst | AI Engineer | Software Developer</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=Green+Software+Researcher;Data+Scientist+in+Progress;AI+Enthusiast&center=true&width=500&height=50">
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=Green+Software+Researcher;Data+Scientist+in+Progress;AI+Enthusiast;Data+Engineering;Enterprise+Process+Optimization&center=true&width=500&height=50">
 </p>
 
 ---
@@ -116,7 +116,7 @@ SQL | MongoDB | Docker | Git | SAP | PowerBI
 ---
 
 ## 📈 GitHub Stats  
-![GitHub stats](https://github-readme-stats-sigma-five.vercel.app/api?username=Fadydesoky&show_icons=true)
+
 ![Fady's GitHub stats](https://github-readme-stats-sigma-five.vercel.app/api?username=Fadydesoky&show_icons=true)
 ![Top Langs](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Fadydesoky&layout=compact)
 ![GitHub Streak](https://streak-stats.demolab.com/?user=Fadydesoky)
