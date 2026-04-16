@@ -1,12 +1,8 @@
 <h1 align="center">Hi 👋, I'm Fady Desoky Saeed Abdelaziz</h1>
 
-![Profile Views](https://komarev.com/ghpvc/?username=Fadydesoky&color=blue)
+![Profile Views](https://komarev.com/ghpvc/?username=Fadydesoky&color=blue)    ![Python](https://img.shields.io/badge/Python-Data%20Analysis-blue)
 
-![Python](https://img.shields.io/badge/Python-Data%20Analysis-blue)
-
-![Power BI](https://img.shields.io/badge/Power%20BI-Dashboard-yellow)
-
-![NLP](https://img.shields.io/badge/NLP-Sentiment%20Analysis-green)
+![Power BI](https://img.shields.io/badge/Power%20BI-Dashboard-yellow)   ![NLP](https://img.shields.io/badge/NLP-Sentiment%20Analysis-green)
 
 ![Status](https://img.shields.io/badge/Open%20to-Opportunities-brightgreen)
 
