@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Fady Desoky Saeed Abdelaziz</h1>
 
-![Profile Views](https://komarev.com/ghpvc/?username=Fadydesoky&color=blue)    ![Python](https://img.shields.io/badge/Python-Data%20Analysis-blue)   ![Power BI](https://img.shields.io/badge/Power%20BI-Dashboard-yellow)   ![NLP](https://img.shields.io/badge/NLP-Sentiment%20Analysis-green)  ![Status](https://img.shields.io/badge/Open%20to-Opportunities-brightgreen)
+![Profile Views](https://komarev.com/ghpvc/?username=Fadydesoky&color=blue)    ![Python](https://img.shields.io/badge/Python-Data%20Analysis-blue)   ![Power BI](https://img.shields.io/badge/Power%20BI-Dashboard-yellow)   ![NLP](https://img.shields.io/badge/NLP-Sentiment%20Analysis-green)  ![Status](https://img.shields.io/badge/Open%20to-DataAnalyticsOpportunities-brightgreen)
 
 <h3 align="center">Data Analyst | AI Engineer | Sustainable Techs & Smart Systems</h3>
 
@@ -134,4 +134,3 @@ SQL | MongoDB | Docker | Git | SAP | PowerBI
 ![Fady's GitHub stats](https://github-readme-stats-sigma-five.vercel.app/api?username=Fadydesoky&show_icons=true)
 ![Top Langs](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Fadydesoky&layout=compact)
 ![GitHub Streak](https://streak-stats.demolab.com/?user=Fadydesoky)
-![Profile views](https://komarev.com/ghpvc/?username=Fadydesoky&label=Profile%20views&color=0e75b6&style=flat)
