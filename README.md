@@ -17,9 +17,7 @@
 
 ## 🧠 About Me  
 
-I'm a Software Engineering student passionate about **Software Engineering, Data Analysis, AI, and Sustainable Tech**.  
-I combine technical expertise with business understanding to build scalable and impactful solutions.  
-Currently focused on becoming a **Data Scientist** while gaining hands-on industry experience.  
+Data Analyst with a Software Engineering background, specializing in sustainability and energy-efficient systems. Currently working as a Data Analytics Intern at Nestlé Business Solutions, contributing to real-world data analysis, reporting, and process optimization across the MENA region. Focused on solving real-world problems through data, predictive modeling, and performance-driven systems, with growing interest in data engineering and scalable solutions. Research interests include green software engineering, urban mobility analytics, and resource consumption modeling, with a focus on building efficient and sustainable systems.
 
 📌 I focus on building solutions that combine **Data, AI, and real-world impact**, especially in sustainability and smart systems.
 
