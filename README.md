@@ -80,7 +80,7 @@ Data analytics and urban mobility research
 Backend development and testing
 
 **Symbios (Australia)**
-Operations and client management
+Operations and client management in telecom and energy sectors.
 
 ---
 
