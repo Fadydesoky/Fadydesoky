@@ -125,9 +125,14 @@ Operations and client management
 
 ## GitHub Stats
 
+<p align="center">
+
+
 ![stats](https://github-readme-stats.vercel.app/api?username=Fadydesoky\&show_icons=true)
 ![langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Fadydesoky\&layout=compact)
 ![streak](https://streak-stats.demolab.com/?user=Fadydesoky)
+
+</p>
 
 ---
 
