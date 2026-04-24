@@ -63,7 +63,7 @@ NLP project that transforms narrative text into structured emotional insights an
 ## Experience
 
 **Nestlé Business Solutions**
-Worked on data quality, reporting, and process optimization across MENA HR systems.
+Worked on data quality, reporting, and process optimization across MENA systems.
 
 **Nile University**
 Contributed to data analytics and urban mobility research projects.
