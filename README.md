@@ -1,4 +1,4 @@
-<h1 align="center">Fady Desoky</h1>
+<h1 align="center">Fady Desoky Saeed Abdelaziz</h1>
 
 <p align="center">
 Building AI-driven systems focused on performance, efficiency, and real-world impact
