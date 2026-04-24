@@ -1,31 +1,30 @@
-<h1 align="center">Hi 👋, I'm Fady Desoky Saeed Abdelaziz</h1>
-
-![Profile Views](https://komarev.com/ghpvc/?username=Fadydesoky&color=red)    ![Python](https://img.shields.io/badge/Python-Data%20Analysis-blue)   ![Power BI](https://img.shields.io/badge/Power%20BI-Dashboard-yellow)  ![AI](https://img.shields.io/badge/AI-Machine%20Learning-pink)  ![Status](https://img.shields.io/badge/Open%20to-DataAnalyticsOpportunities-brightgreen)
-
-<h3 align="center">Data Analyst | AI Engineer | Sustainable Techs & Smart Systems</h3>
+<h1 align="center">Fady Desoky</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=Software+Engineer;Data+Scientist+in+Progress;AI+Enthusiast;Data+Engineering;Enterprise+Process+Optimization&center=true&width=500&height=50">
+Building AI-driven systems focused on performance, efficiency, and real-world impact
 </p>
 
----
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=AI+%2B+Software+Quality;Energy-efficient+systems;Data-driven+optimization;From+code+to+real-world+impact&center=true&width=520&height=45">
+</p>
 
-## 🌐 Connect with me  
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Fady%20Desoky-blue?logo=linkedin&logoColor=white)](https://eg.linkedin.com/in/fadydesokysaeedabdelaziz)
-[![Medium](https://img.shields.io/badge/Medium-Articles-blue?logo=medium&logoColor=white)](https://medium.com/@Fadydesokysaeedabdelaziz)
-[![Dev.to](https://img.shields.io/badge/Dev.to-Blogs-blue?logo=devdotto&logoColor=white)](https://dev.to/fadydesokysaeedabdelaziz)
-[![CoderLegion](https://img.shields.io/badge/CoderLegion-Blogs-blue?logo=CoderLegion&logoColor=white)](https://coderlegion.com/user/Fady-Desoky-Saeed-Abdelaziz)
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Fadydesoky&color=blue" />
+  <img src="https://img.shields.io/badge/Python-Data%20Analysis-blue" />
+  <img src="https://img.shields.io/badge/AI-Machine%20Learning-black" />
+  <img src="https://img.shields.io/badge/Docker-Containerization-blue" />
+  <img src="https://img.shields.io/badge/Focus-Sustainable%20Systems-green" />
+</p>
 
 ---
 
 ## About
 
-I work on building systems that are not just functional, but efficient and scalable.
+I design and build systems that are not just functional, but efficient by design.
 
-My background is in software engineering, and I currently focus on data analysis, AI, and software quality — with a strong interest in energy-efficient systems and sustainable computing.
+My work sits at the intersection of AI, software quality, and sustainable computing — with a focus on improving how systems perform, scale, and consume resources.
 
-I’ve worked on real-world data problems across the MENA region, and I’m particularly interested in how data and machine learning can improve system performance and reduce resource consumption.
+I’m particularly interested in using data and machine learning to turn system behavior into actionable insights.
 
 ---
 
@@ -33,55 +32,55 @@ I’ve worked on real-world data problems across the MENA region, and I’m part
 
 ### Qualioro
 
-AI-powered software quality intelligence platform that analyzes code metrics and turns them into actionable insights.
-
-### Energy Consumption Analysis for Software Systems
-
-Data-driven project exploring how software resource usage impacts energy consumption, with predictive modeling for optimization.
+AI-powered software quality intelligence platform.
+Transforms raw code metrics into insights that improve performance and efficiency.
 
 ### Mobile Cloud System
 
-Cloud-native microservices system with distributed architecture, fault tolerance (Saga, retries, circuit breakers), and real-time observability.
+Distributed microservices architecture with fault tolerance (Saga pattern, retries, circuit breakers) and real-time observability.
+
+### Energy Consumption Analysis for Software Systems
+
+Data-driven analysis of how software resource usage impacts energy consumption, including predictive modeling for optimization.
 
 ### AI Story Sentiment Analysis
 
-NLP project that transforms narrative text into structured emotional insights and visual dashboards.
+NLP pipeline that converts narrative text into structured emotional signals and interactive dashboards.
 
 ---
 
 ## Research
 
-* *Analyzing Software Resource Consumption for Sustainable Software Development*
-  Focused on predictive modeling to reduce energy consumption in software systems.
-  Presented at AII 2025, Washignton, USA.
+* Analyzing Software Resource Consumption for Sustainable Software Development
+  Predictive modeling approach for reducing energy usage in software systems
 
-* *Graphing the Jam: Urban Traffic Forecasting using GNSS Data*
-  Presented at NetMob 2025, Paris, France
+* Graphing the Jam: Urban Traffic Forecasting using GNSS Data
+  Presented at NetMob 2025
 
 ---
 
 ## Experience
 
-**Nestlé Business Solutions**
+Nestlé Business Solutions
 Worked on data quality, reporting, and process optimization across MENA systems.
 
-**Nile University**
-Contributed to data analytics and urban mobility research projects.
+Nile University
+Data analytics and urban mobility research.
 
-**RiskRice**
+RiskRice
 Backend development and software testing.
 
-**Symbios (Australia)**
-Handled operations and client communication in telecom and energy sectors.
+Symbios (Australia)
+Operations and client management in telecom and energy sectors.
 
 ---
 
 ## Tech
 
-Python · C++ · JavaScript
-Pandas · NumPy · Scikit-learn
-Flask · React · .NET
-Docker · SQL · Git · Power BI
+Core: Python · C++ · JavaScript
+Data & AI: Pandas · NumPy · Scikit-learn
+Development: Flask · React · .NET
+Tools: Docker · SQL · Git · Power BI
 
 ---
 
@@ -93,24 +92,25 @@ Docker · SQL · Git · Power BI
 
 ---
 
+## Connect
+
+* LinkedIn
+* Dev.to
+* Medium
+
+---
+
 ## GitHub Stats
 
 ![stats](https://github-readme-stats.vercel.app/api?username=Fadydesoky\&show_icons=true)
 ![langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Fadydesoky\&layout=compact)
 
+---
 
-## 🌌 GitHub Universe  
+## GitHub Universe
 
 <p align="center">
   <a href="https://stack-universe.vercel.app/universe/Fadydesoky">
-    🌍 Click to explore my GitHub in 3D
+    Explore my GitHub in 3D
   </a>
 </p>
-
----
-
-## 📈 GitHub Stats  
-
-![Fady's GitHub stats](https://github-readme-stats-sigma-five.vercel.app/api?username=Fadydesoky&show_icons=true)
-![Top Langs](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Fadydesoky&layout=compact)
-![GitHub Streak](https://streak-stats.demolab.com/?user=Fadydesoky)
