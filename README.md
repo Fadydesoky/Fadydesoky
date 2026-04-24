@@ -20,6 +20,10 @@ Building AI-driven systems focused on performance, efficiency, and real-world im
 
 ## About
 
+Data Analyst with a Software Engineering background, working across data engineering, system optimization, and sustainability analytics.
+
+Focused on solving real-world problems through data, improving system performance, and building efficient, scalable solutions.
+
 I build systems that are not just functional, but efficient by design.
 
 My work sits at the intersection of AI, software quality, and sustainable computing — with a focus on improving performance, scalability, and resource efficiency.
