@@ -60,12 +60,10 @@ NLP pipeline that transforms text into structured emotional insights and dashboa
 
 ## Research
 
-* Analyzing Software Resource Consumption Data for Sustainable Green Software Development: A Predictive Model to Reduce and Optimize Energy Consumption in Software
-
+* Analyzing Software Resource Consumption Data for Sustainable Green Software Development: A Predictive Model to Reduce and Optimize Energy Consumption in Software |
   Presented at AII 2025, Washington, USA
   
-* Graphing the Jam: GNSS-Powered Modeling and Forecasting of Urban Traffic Congestion
- 
+* Graphing the Jam: GNSS-Powered Modeling and Forecasting of Urban Traffic Congestion |
   Presented at NetMob 2025, Paris, France
 
 ---
