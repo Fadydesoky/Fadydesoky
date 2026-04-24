@@ -13,8 +13,8 @@
 ## 🌐 Connect with me  
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Fady%20Desoky-blue?logo=linkedin&logoColor=white)](https://eg.linkedin.com/in/fadydesokysaeedabdelaziz)
-[![Medium](https://img.shields.io/badge/Medium-Articles-black?logo=medium&logoColor=white)](https://medium.com/@Fadydesokysaeedabdelaziz)
-[![Dev.to](https://img.shields.io/badge/Dev.to-Blogs-black?logo=devdotto&logoColor=white)](https://dev.to/fadydesokysaeedabdelaziz)
+[![Medium](https://img.shields.io/badge/Medium-Articles-blue?logo=medium&logoColor=white)](https://medium.com/@Fadydesokysaeedabdelaziz)
+[![Dev.to](https://img.shields.io/badge/Dev.to-Blogs-blue?logo=devdotto&logoColor=white)](https://dev.to/fadydesokysaeedabdelaziz)
 [![CoderLegion](https://img.shields.io/badge/CoderLegion-Blogs-blue?logo=CoderLegion&logoColor=white)](https://coderlegion.com/user/Fady-Desoky-Saeed-Abdelaziz)
 
 ---
