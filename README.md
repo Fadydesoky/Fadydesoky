@@ -18,106 +18,100 @@
 
 ---
 
-## 🧠 About Me  
+<h1 align="center">Hi, I'm Fady</h1>
 
-Data Analyst with a Software Engineering background, specializing in sustainability and energy-efficient systems. Currently working as a Data Analytics Intern at Nestlé Business Solutions, contributing to real-world data analysis, reporting, and process optimization across the MENA region. Focused on solving real-world problems through data, predictive modeling, and performance-driven systems, with growing interest in data engineering and scalable solutions. Research interests include green software engineering, urban mobility analytics, and resource consumption modeling, with a focus on building efficient and sustainable systems.
-
-📌 I focus on building solutions that combine **Data, AI, and real-world impact**, especially in sustainability and smart systems.
-
-📌 Open to **Data Analysis**, **AI**, and **Software Engineering** Internship Opportunities.
+<p align="center">
+AI Engineer · Data Analyst · Sustainable Systems
+</p>
 
 ---
 
-## 🔬 Research & Publications  
+## About
 
-- 📄 **Analyzing Software Resource Consumption Data for Sustainable Green Software Development: A Predictive Model to Reduce and Optimize Energy Consumption in Software**  
-  Predictive model for reducing software energy consumption using IEEE datasets, October 2025, Washington, USA.  
+I work on building systems that are not just functional, but efficient and scalable.
 
-- 🌍 **Graphing the Jam: GNSS-Powered Modeling and Forecasting of Urban Traffic Congestion"** 
-  Research accepted and presented as a poster in an NetMob 2025 Conference, October 2025, Paris, France.
+My background is in software engineering, and I currently focus on data analysis, AI, and software quality — with a strong interest in energy-efficient systems and sustainable computing.
 
----
-
-## 💼 Experience  
-
-- 🏢 **Nestlé Business Services (HR Operations Process Optimization)**  
-  - Improved data quality across MENA HR systems
-  - SAP HR data management  
-  - Process mapping & reporting  
-
-- 🧪 **Nile University – Data Analytics & Urban Mobility Research Intern**  
-  - Worked on data-driven research projects  
-  - Participated in international data challenge  
-
-- 💻 **RiskRice – Backend & Testing Intern**  
-  - Learned API design & software testing  
-
-- 🌏 **Symbios Australia – Account Executive**  
-  - Managed clients & operations in telecom & energy sectors
-    
-- ⚙️ **Maher Ahmed Bilal For Engineering Consulting - Information Technology and Software Engineering Intern**
-  - Contributed to improving internal digital workflows and supporting system optimization initiatives.
-  - Assisted in system configuration, troubleshooting, and resolving operational technical issues.
-  - Analyzed existing operational processes and identified opportunities for technical enhancement and efficiency improvement.
+I’ve worked on real-world data problems across the MENA region, and I’m particularly interested in how data and machine learning can improve system performance and reduce resource consumption.
 
 ---
 
-## 🛠️ Tech Stack  
+## Selected Work
 
-**Languages:**  
-Python | C++ | JavaScript  
+### Qualioro
 
-**Data & AI:**  
-Pandas | NumPy | Matplotlib | Scikit-learn  
+AI-powered software quality intelligence platform that analyzes code metrics and turns them into actionable insights.
 
-**Development:**  
-Flask | React.js | .NET | Entity Framework  
+### Energy Consumption Analysis for Software Systems
 
-**Tools:**  
-SQL | MongoDB | Docker | Git | SAP | PowerBI
+Data-driven project exploring how software resource usage impacts energy consumption, with predictive modeling for optimization.
 
----
+### Mobile Cloud System
 
-## 🚀 Featured Projects  
+Cloud-native microservices system with distributed architecture, fault tolerance (Saga, retries, circuit breakers), and real-time observability.
 
-🔬 Green Software Energy Analysis  
-📊 Egypt Job Market Analysis  
-🤖 AI Computer Vision Project  
+### AI Story Sentiment Analysis
+
+NLP project that transforms narrative text into structured emotional insights and visual dashboards.
 
 ---
 
-## 📈 Highlights  
+## Research
 
-- 🏆 Research published in international conference (USA)  
-- 🌍 Worked on MENA-wide data projects  
-- 📊 Strong mix of Data + Business + Engineering  
+* *Analyzing Software Resource Consumption for Sustainable Software Development*
+  Focused on predictive modeling to reduce energy consumption in software systems.
 
----
-
-## 🏆 Achievements  
-
-- 🌍 NetMob 2025 – Paris  
-- 🌍 USA Research published in USA
-- 🏢 Worked with Nestlé Business Solutions Supporting MENA Region
+* *Graphing the Jam: Urban Traffic Forecasting using GNSS Data*
+  Presented at NetMob 2025
 
 ---
 
-## 🎯 Interests  
+## Experience
 
-- 📊 Data Analytics & Engineering
-- 🤖 Artificial Intelligence  
-- 🌱 Green Computing  
-- 📈 Business Strategy  
+**Nestlé Business Services**
+Worked on data quality, reporting, and process optimization across MENA HR systems.
+
+**Nile University**
+Contributed to data analytics and urban mobility research projects.
+
+**RiskRice**
+Backend development and software testing.
+
+**Symbios (Australia)**
+Handled operations and client communication in telecom and energy sectors.
 
 ---
 
-## 🚀 Current Focus  
+## Tech
 
-- Building real-world Data/AI projects  
-- Publishing technical content  
-- Preparing for top internships & global opportunities  
+Python · C++ · JavaScript
+Pandas · NumPy · Scikit-learn
+Flask · React · .NET
+Docker · SQL · Git · Power BI
 
 ---
+
+## Current Focus
+
+* Machine learning for system performance
+* Energy-efficient software systems
+* Data-driven optimization
+
+---
+
+## Links
+
+* LinkedIn
+* Dev.to
+* Google Scholar / ResearchGate
+
+---
+
+## GitHub Stats
+
+![stats](https://github-readme-stats.vercel.app/api?username=Fadydesoky\&show_icons=true)
+![langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Fadydesoky\&layout=compact)
+
 
 ## 🌌 GitHub Universe  
 
