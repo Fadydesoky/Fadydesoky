@@ -78,8 +78,11 @@ Operations and client management in telecom and energy sectors.
 ## Tech
 
 Core: Python · C++ · JavaScript
+
 Data & AI: Pandas · NumPy · Scikit-learn
+
 Development: Flask · React · .NET
+
 Tools: Docker · SQL · Git · Power BI
 
 ---
