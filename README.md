@@ -93,14 +93,6 @@ Docker · SQL · Git · Power BI
 
 ---
 
-## Links
-
-* LinkedIn
-* Dev.to
-* Google Scholar / ResearchGate
-
----
-
 ## GitHub Stats
 
 ![stats](https://github-readme-stats.vercel.app/api?username=Fadydesoky\&show_icons=true)
