@@ -52,15 +52,16 @@ NLP project that transforms narrative text into structured emotional insights an
 
 * *Analyzing Software Resource Consumption for Sustainable Software Development*
   Focused on predictive modeling to reduce energy consumption in software systems.
+  Presented at AII 2025, Washignton, USA.
 
 * *Graphing the Jam: Urban Traffic Forecasting using GNSS Data*
-  Presented at NetMob 2025
+  Presented at NetMob 2025, Paris, France
 
 ---
 
 ## Experience
 
-**Nestlé Business Services**
+**Nestlé Business Solutions**
 Worked on data quality, reporting, and process optimization across MENA HR systems.
 
 **Nile University**
