@@ -18,14 +18,6 @@
 
 ---
 
-<h1 align="center">Hi, I'm Fady</h1>
-
-<p align="center">
-AI Engineer · Data Analyst · Sustainable Systems
-</p>
-
----
-
 ## About
 
 I work on building systems that are not just functional, but efficient and scalable.
