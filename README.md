@@ -44,7 +44,7 @@ AI-powered software quality intelligence platform that transforms code metrics i
 
 Distributed microservices system with fault tolerance (Saga pattern, retries, circuit breakers) and real-time observability.
 
-[🚀 Live Demo](https://fadydesoky.github.io/Mobile-Cloud-System/)
+[🚀 Live Demo](cloud-native-pipeline.vercel.app/)
 
 ---
 
