@@ -36,7 +36,7 @@ My work sits at the intersection of AI, software quality, and sustainable comput
 
 AI-powered software quality intelligence platform that transforms code metrics into actionable insights.
 
-[🚀 Live Demo](https://qualioro.vercel.app/) • [📄 Case Study](https://dev.to/fadydesokysaeedabdelaziz/how-i-built-qualioro-an-ai-powered-software-quality-intelligence-tool-3hk2)
+🚀 **Live Demo:** (https://qualioro.vercel.app/) • 📄 **Case Study:** (https://dev.to/fadydesokysaeedabdelaziz/how-i-built-qualioro-an-ai-powered-software-quality-intelligence-tool-3hk2)
 
 ---
 
@@ -44,7 +44,7 @@ AI-powered software quality intelligence platform that transforms code metrics i
 
 Distributed microservices system with fault tolerance (Saga pattern, retries, circuit breakers) and real-time observability.
 
-[🚀 Live Demo](https://cloud-native-pipeline.vercel.app/)
+🚀 **Live Demo:** https://cloud-native-pipeline.vercel.app/
 
 ---
 
@@ -58,7 +58,7 @@ Data-driven analysis of software resource usage and its impact on energy consump
 
 NLP pipeline that transforms text into structured emotional insights and dashboards.
 
-[📄 Article](https://coderlegion.com/15014/sentiment-analysis-using-nlp-visualizing-emotions-in-text-with-python-and-power-bi)
+📄 **Article:** (https://coderlegion.com/15014/sentiment-analysis-using-nlp-visualizing-emotions-in-text-with-python-and-power-bi)
 
 ---
 
