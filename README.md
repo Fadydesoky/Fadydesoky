@@ -75,7 +75,7 @@ NLP pipeline that transforms text into structured emotional insights and dashboa
 ## Experience
 
 **Nestlé Business Solutions**
-Data quality, reporting, and process optimization across MENA systems
+Data quality, reporting, assist project management, and process optimization across MENA systems
 
 **Nile University**
 Data analytics and urban mobility research
