@@ -127,16 +127,6 @@ Operations and client management in telecom and energy sectors.
 
 ---
 
-## GitHub Stats
-
-<p align="center">
-
-![streak](https://streak-stats.demolab.com/?user=Fadydesoky)
-
-</p>
-
----
-
 ## GitHub Universe
 
 <p align="center">
