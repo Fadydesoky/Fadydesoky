@@ -75,16 +75,25 @@ NLP pipeline that transforms text into structured emotional insights and dashboa
 ## Experience
 
 **Nestlé Business Solutions**
-Data quality, reporting, assist project management, and process optimization across MENA systems
+Data Analytics & Reporting, Ex HR Operations Process Optimization - Assistant Project Manager across MENA region.
 
 **Nile University**
-Data analytics and urban mobility research
+Data Analytics & Urban Mobility Research Intern
 
 **RiskRice**
-Backend development and testing
+Backend Development & Software Testing Intern
 
 **Symbios (Australia)**
-Operations and client management in telecom and energy sectors.
+Account Executive, Operations and client management in telecom and energy sectors.
+
+**Maher Ahmed Belal for Engineering Consulting**
+Software Engineering and Information Technology Intern
+
+**TIEC**
+Entrepreneurship and Innovation - InnovEgypt Program
+
+**CorridorTalks**
+Business Development & Marketing Strategy Intern
 
 ---
 
